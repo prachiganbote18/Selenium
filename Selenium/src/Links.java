@@ -2,7 +2,7 @@ import java.awt.List;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
-
+//added comment from github
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
